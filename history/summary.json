@@ -4,36 +4,40 @@
     "url": "https://hem.fomalhaut.se/repoList/",
     "icon": "https://icons.duckduckgo.com/ip3/hem.fomalhaut.se.ico",
     "slug": "repo-list",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.92%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
     "time": 556,
     "timeDay": 556,
     "timeWeek": 556,
     "timeMonth": 556,
     "timeYear": 556,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-03-13": 1
+    }
   },
   {
     "name": "Video Streamer",
     "url": "https://hem.fomalhaut.se/video-streamer/",
     "icon": "https://icons.duckduckgo.com/ip3/hem.fomalhaut.se.ico",
     "slug": "video-streamer",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 105,
     "timeDay": 105,
     "timeWeek": 105,
     "timeMonth": 105,
     "timeYear": 105,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-03-13": 0
+    }
   },
   {
     "name": "Google",
